@@ -21,7 +21,7 @@
 
 <tr>
 <td>Sunday</td>
-<td>2 hrs</td>
+<td>4 hrs</td>
 </tr>
 
 
