@@ -30,7 +30,13 @@
 <tr>
 <td>06.11.23</td>
 <td>Monday</td>
-<td>2 hrs</td>
+<td>3 hrs</td>
+</tr>
+
+<tr>
+<td>07.11.23</td>
+<td>Tuesday</td>
+<td>0 hrs</td>
 </tr>
 
 </tbody>
