@@ -53,7 +53,20 @@ div:first-child{
 
 
 
-
+.box{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    margin: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* align-content: center; */
+    /* justify-items: center; */
+    display: flex;
+    
+}
 
 
 
