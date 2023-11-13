@@ -67,8 +67,15 @@
 </tr>
 
 <tr>
+<td>Day 9 </td>
+<td>11.11.23</td>
+<td>Saturday</td>
+<td>3 hrs</td>
+</tr>
+
+<tr>
 <td colspan=3>Total</td>
-<td>29 hrs</td>
+<td>32 hrs</td>
 </tr>
 
 </tbody>
